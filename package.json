@@ -1,0 +1,14 @@
+{
+  "name": "samuraibs-tests",
+  "version": "1.0.0",
+  "description": "projeto de testes de ponta a ponta em cypress",
+  "main": "index.js",
+  "author": "Davis Robert",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0",
+    "cypress": "^9.5.0",
+    "faker": "5.5.3",
+    "pg": "^8.7.3"
+  }
+}
