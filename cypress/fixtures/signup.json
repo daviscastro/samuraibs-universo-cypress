@@ -1,0 +1,31 @@
+{
+  "success": {
+      "name": "Josh Thomas",
+      "email": "joshthomas@samuraibs.com",
+      "password": "pwd123"
+  },
+
+  "": {
+      "name": "Josh Thomas",
+      "email": "joshthomaas@samuraibs.com",
+      "password": "pwd123",
+      "is_provider": true
+  },
+  
+  "email_inv": {
+      "name":"Liz Olsen",
+      "email":"liza.yahoocom",
+      "password":"pwd123"
+  },
+
+  "short_password": {
+    "name": "Joffey Baratheon", 
+    "email": "joffrey@samuraibs.com", 
+    "password": null 
+  }
+
+}     
+
+
+
+
